@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page Tests should add user 1`] = `ReactWrapper {}`;
+
+exports[`Home page Tests should render ShowTable Component 1`] = `ReactWrapper {}`;
+
+exports[`Home page Tests should render User Component 1`] = `ShallowWrapper {}`;

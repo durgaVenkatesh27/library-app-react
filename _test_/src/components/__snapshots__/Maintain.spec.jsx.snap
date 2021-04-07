@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book component Tests should borrow a book success 1`] = `ReactWrapper {}`;
+
+exports[`Book component Tests should render Borrowed list Table - fails 1`] = `ReactWrapper {}`;
+
+exports[`Book component Tests should render Borrowed list Table success 1`] = `ReactWrapper {}`;
+
+exports[`Book component Tests should render Library Table Component 1`] = `ReactWrapper {}`;
+
+exports[`Book component Tests should render Maintain Component 1`] = `ShallowWrapper {}`;
+
+exports[`Book component Tests should show error -  borrow a book when user Not selected 1`] = `ReactWrapper {}`;
+
+exports[`Book component Tests should show error - borrow a book when user cross his limit 1`] = `ReactWrapper {}`;
